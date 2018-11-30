@@ -1,0 +1,16 @@
+開発環境:
+Visual Studio 2017 Community
+OpenCV ver2.4.9
+
+各フォルダの概要
+data: cityscapesの評価画像
+params: cityscpaes(11クラス)学習済みパラメータ
+
+各ファイルの概要
+evaluation.bat: 評価実行スクリプト
+DLBB.sln: Visual Studioのソリューションファイル
+visualize_outmaps.py: npy出力結果を画像に変換
+
+cityscapesの評価結果
+基底6, 量子化ビット数6: 34.27%
+通常のSegNet: 37.02%

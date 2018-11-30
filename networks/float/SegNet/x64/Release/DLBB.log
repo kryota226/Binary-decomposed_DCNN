@@ -1,0 +1,19 @@
+﻿  network.cpp
+  main.cpp
+c:\users\kryota\desktop\works\web\fastsegset\segnet\src\main.cpp(150): warning C4267: '引数': 'size_t' から 'const int' に変換しました。データが失われているかもしれません。
+  io.cpp
+  path.cpp
+c:\users\kryota\desktop\works\web\fastsegset\segnet\src\utils\path.cpp(15): warning C4267: '引数': 'size_t' から 'const int' に変換しました。データが失われているかもしれません。
+c:\users\kryota\desktop\works\web\fastsegset\segnet\src\utils\path.cpp(24): warning C4267: '引数': 'size_t' から 'const int' に変換しました。データが失われているかもしれません。
+c:\users\kryota\desktop\works\web\fastsegset\segnet\src\utils\path.cpp(37): warning C4267: '引数': 'size_t' から 'const int' に変換しました。データが失われているかもしれません。
+c:\users\kryota\desktop\works\web\fastsegset\segnet\src\utils\path.cpp(43): warning C4267: '引数': 'size_t' から 'const int' に変換しました。データが失われているかもしれません。
+c:\users\kryota\desktop\works\web\fastsegset\segnet\src\utils\path.cpp(57): warning C4267: '引数': 'size_t' から 'const int' に変換しました。データが失われているかもしれません。
+c:\users\kryota\desktop\works\web\fastsegset\segnet\src\utils\path.cpp(70): warning C4267: '引数': 'size_t' から 'const int' に変換しました。データが失われているかもしれません。
+c:\users\kryota\desktop\works\web\fastsegset\segnet\src\utils\path.cpp(79): warning C4267: '引数': 'size_t' から 'const int' に変換しました。データが失われているかもしれません。
+  timer.cpp
+  コード生成しています。
+  1337 of 1337 functions (100.0%) were compiled.
+    191 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  DLBB.vcxproj -> C:\Users\kryota\Desktop\works\web\FastSegSet\SegNet\x64\Release\DLBB.exe

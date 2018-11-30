@@ -1,0 +1,16 @@
+開発環境:
+Visual Studio 2017 Community
+OpenCV ver2.4.9
+
+各フォルダの概要
+data: ImageNetのサンプル(平均ファイル, 画像10枚)
+params: ImageNet学習済みパラメータ
+result_b: サンプル画像10枚の評価結果
+
+各ファイルの概要
+evaluation.bat: 評価実行スクリプト
+DLBB.sln: Visual Studioのソリューションファイル
+
+Imagenetの検証サンプル5万枚Top5評価
+基底6, 量子化ビット数6: 84.48%
+通常のVGGNet(16 layers): 86.64%
